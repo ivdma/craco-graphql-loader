@@ -18,5 +18,8 @@
   },
   "devDependencies": {
     "@craco/craco": "^5.6.4"
+  },
+  "peerDependencies": {
+    "@craco/craco": "^5.6.4"
   }
 }
