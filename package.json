@@ -12,5 +12,8 @@
     "loader"
   ],
   "author": "Ivan Malykh",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "graphql-tag": "^2.10.3"
+  }
 }
