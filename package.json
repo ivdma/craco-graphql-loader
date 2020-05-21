@@ -1,0 +1,16 @@
+{
+  "name": "craco-graphql-loader",
+  "version": "1.0.0",
+  "description": "CRACO plugin for graphql-loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "craco",
+    "graphql",
+    "loader"
+  ],
+  "author": "Ivan Malykh",
+  "license": "ISC"
+}
