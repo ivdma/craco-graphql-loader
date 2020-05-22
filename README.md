@@ -27,7 +27,7 @@ module.exports = {
 Then import any query:
 
 ```jsx
-import GreatQuery from './MyAwesomeQuery.graphl`
+import MyQuery from './MyQuery.graphl';
 ```
 
-For full usage instructions visit: https://github.com/apollographql/graphql-tag
+For further usage instructions visit: https://github.com/apollographql/graphql-tag
