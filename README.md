@@ -31,3 +31,7 @@ import MyQuery from './MyQuery.graphl';
 ```
 
 For further usage instructions visit: https://github.com/apollographql/graphql-tag
+
+----------------------------
+
+Made with love at [Payt B.V.](https://www.paytsoftware.com/). [We're hiring](https://payt.homerun.co/mediorsenior-fullstack-ontwikkelaar)!
