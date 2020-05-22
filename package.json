@@ -8,11 +8,21 @@
   },
   "keywords": [
     "craco",
+    "create-react-app",
     "graphql",
+    "graphql-tag",
     "loader"
   ],
   "author": "Ivan Malykh",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivdma/craco-graphql-loader"
+  },
+  "bugs": {
+    "url": "https://github.com/ivdma/craco-graphql-loader/issues"
+  },
+  "homepage": "https://github.com/ivdma/craco-graphql-loader",
   "dependencies": {
     "graphql-tag": "^2.10.3"
   },
